@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LayoutViewsSectionsCoreMVC6.props" />
+</Project>

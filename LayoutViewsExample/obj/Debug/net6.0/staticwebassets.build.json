@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "obLzgfK3QAYDY/N9I+mRD6h1jx4G6vYrN/h/5MWtMbc=",
+  "Source": "LayoutViewsSectionsCoreMVC6",
+  "BasePath": "_content/LayoutViewsSectionsCoreMVC6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViewsSectionsCoreMVC6\\wwwroot",
+      "Source": "LayoutViewsSectionsCoreMVC6",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\08. Layout Views\\06. Layout Views Sections\\LayoutViewsExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsSectionsCoreMVC6",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\08. Layout Views\\06. Layout Views Sections\\LayoutViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViewsSectionsCoreMVC6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\08. Layout Views\\06. Layout Views Sections\\LayoutViewsExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsSectionsCoreMVC6",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\08. Layout Views\\06. Layout Views Sections\\LayoutViewsExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LayoutViewsSectionsCoreMVC6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LayoutViewsSectionsCoreMVC6.props",
+      "PackagePath": "build\\LayoutViewsSectionsCoreMVC6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LayoutViewsSectionsCoreMVC6.props",
+      "PackagePath": "buildMultiTargeting\\LayoutViewsSectionsCoreMVC6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LayoutViewsSectionsCoreMVC6.props",
+      "PackagePath": "buildTransitive\\LayoutViewsSectionsCoreMVC6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
